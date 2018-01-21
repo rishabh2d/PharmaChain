@@ -39,5 +39,3 @@ model.compile(loss = 'mean_squared_error', optimizer = 'rmsprop', metrics = ['ac
 
 model.fit(x_train, y_test, num_epochs, num_batch, validation_data = (x_test, y_test))
 ````
-
-# Future Implementations
