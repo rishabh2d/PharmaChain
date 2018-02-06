@@ -1,7 +1,7 @@
 # Created by
 Jade Shyu, UI/UX Designer and Business Research. [LinkedIn](http://linkedin.com/in/jadeshyu)
 
-Rishabh Sharma, Solidity Developer. [LinkedIn](https://www.linkedin.com/in/rishabh2d/)
+# Rishabh Sharma, Solidity Developer. [LinkedIn](https://www.linkedin.com/in/rishabh2d/)
 
 Reid Sherman, Frontend and Solidity Developer. [LinkedIn](https://www.linkedin.com/in/reidsherman/)
 
