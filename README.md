@@ -1,5 +1,5 @@
 # Created by 
-### Rishabh Sharma, Solidity Developer. [LinkedIn](https://www.linkedin.com/in/rishabh2d/)
+### Rishabh Sharma, Frontend and Solidity Developer. [LinkedIn](https://www.linkedin.com/in/rishabh2d/)
 
 Jade Shyu, UI/UX Designer and Business Research. [LinkedIn](http://linkedin.com/in/jadeshyu)
 
