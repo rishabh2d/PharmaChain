@@ -3,7 +3,7 @@
 
 Jade Shyu, UI/UX Designer and Business Research. [LinkedIn](http://linkedin.com/in/jadeshyu)
 
-Reid Sherman, Frontend and Solidity Developer. [LinkedIn](https://www.linkedin.com/in/reidsherman/)\n
+Reid Sherman, Frontend and Solidity Developer. [LinkedIn](https://www.linkedin.com/in/reidsherman/)
 
 Adrian Jewell, Full-stack Developer and Machine Learning Contributor. [LinkedIn](https://www.linkedin.com/in/adrian-jewell-爱德华-391a43142/)
 
